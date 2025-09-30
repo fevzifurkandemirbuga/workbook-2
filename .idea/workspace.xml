@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd7117b-8c2f-4073-ac6e-be1826092ee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/HighScoreWins.java" afterDir="false" />
+    <list default="true" id="abd7117b-8c2f-4073-ac6e-be1826092ee8" name="Changes" comment="exercise-3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/TheaterReservations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +48,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759264340718</updated>
-      <workItem from="1759264341741" duration="697000" />
+      <workItem from="1759264341741" duration="1482000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commint">
+      <option name="closed" value="true" />
+      <created>1759265106073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759265106073</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Step-1">
+      <option name="closed" value="true" />
+      <created>1759265119220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759265119220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Step-1">
+      <option name="closed" value="true" />
+      <created>1759265155477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759265155477</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exercise-3">
+      <option name="closed" value="true" />
+      <created>1759265317672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759265317672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commint" />
+    <MESSAGE value="Step-1" />
+    <MESSAGE value="exercise-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise-3" />
   </component>
 </project>
